@@ -294,3 +294,7 @@ git add .
 git commit -m "Add validations and UX improvements"
 git push
 
+GRAPH VISULIZATION
+<img width="800" height="1200" alt="image" src="https://github.com/user-attachments/assets/04639171-cddb-4505-aff3-5bfe2fd27eb7" />
+
+
